@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img  align = “right” src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5MW5qNjVheGYxcWFsdHh3MW1xYXc0N2VwbG1meTN0NzZ2ZjkwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="" width = “400>
+<img  align = “right” src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJkYWlkd2pvNmY4OXVzOTg3dG96dWZvczlzcnZoNm81ZG9mM2kzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="" width = “400>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen13-nevu&label=Profile%20views&color=0e75b6&style=flat" alt="naveen13-nevu" /> </p>

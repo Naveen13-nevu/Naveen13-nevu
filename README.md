@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Java Full Stack developer from India</h3>
 <img  align = “right” src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJkYWlkd2pvNmY4OXVzOTg3dG96dWZvczlzcnZoNm81ZG9mM2kzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="" width = “400>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen13-nevu&label=Profile%20views&color=0e75b6&style=flat" alt="naveen13-nevu" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Software Development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **naveenkumar12634@gmail.com**
 

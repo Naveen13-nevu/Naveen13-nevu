@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Naveen Kumar 👨‍💻  
+# 👋 Hi, I'm Naveen Kumar 👨‍💻
 ## 🚀 Java Full Stack Developer
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="coding gif"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Java Full Stack Developer** with experience in building **secure, scalable, database-driven applications**.  
-I specialize in **Spring Boot backend development**, REST APIs, and modern frontend technologies.
+I am a passionate **Java Full Stack Developer** with hands-on experience in building  
+**secure, scalable, database-driven web applications**.
 
 - 💡 Strong in Core Java & OOP
 - 🔐 Experience with authentication & authorization
-- 🌱 Continuously learning new frameworks & best practices
+- 🌱 Always learning new technologies
 
 ---
 
@@ -51,44 +51,46 @@ I specialize in **Spring Boot backend development**, REST APIs, and modern front
 
 ## 📦 Projects
 
-### 👥 **User Management System**
+### 👥 User Management System
 - Java Spring Boot application
-- User registration & login
+- User Registration & Login
 - Role-based access (Admin / User)
 - CRUD operations
-- RESTful API architecture
+- RESTful APIs
 - MySQL database integration
 - Secure authentication & validation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="user management gif"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" />
 </p>
 
 ---
 
-### 🏥 **Hospital Management System**
+### 🏥 Hospital Management System
 - Java Spring Boot based application
-- Patient, Doctor & Appointment Management
+- Patient, Doctor & Appointment management
 - Role-based access (Admin, Doctor, Patient)
-- Appointment scheduling & tracking
+- Appointment scheduling system
 - RESTful backend services
 - MySQL database integration
-- Secure login and authorization
+- Secure login system
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="hospital management gif"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" />
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen13-nevu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen13-nevu&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen13-nevu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen13-nevu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
@@ -99,7 +101,7 @@ I specialize in **Spring Boot backend development**, REST APIs, and modern front
 ---
 
 ## ⭐ Highlights
-- Clean, maintainable Java code
+- Clean & maintainable Java code
 - REST API best practices
 - MVC & layered architecture
 - Real-world project experience

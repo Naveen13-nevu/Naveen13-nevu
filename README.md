@@ -80,17 +80,15 @@ I specialize in **Spring Boot backend development**, REST APIs, and modern front
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen13-nevu&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen13-nevu&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## 📫 Connect With Me

@@ -1,28 +1,78 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img  align = “right” src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJkYWlkd2pvNmY4OXVzOTg3dG96dWZvczlzcnZoNm81ZG9mM2kzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="" width = “400>
+# 👋 Hi, I'm Naveen 👨‍💻
 
+🚀 **Java Developer | Backend Engineer | Problem Solver**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen13-nevu&label=Profile%20views&color=0e75b6&style=flat" alt="naveen13-nevu" /> </p>
+I’m a passionate Java developer with experience in building **scalable backend applications**, **web apps**, and **database-driven systems**. I enjoy solving problems, learning new technologies, and writing clean, maintainable code.
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+---
 
-- 👯 I’m looking to collaborate on **Software Development**
+## 🛠️ Tech Stack
 
-- 💬 Ask me about **JAVA**
+### 💻 Programming Languages
+- Java (Core Java, OOP, Collections, Multithreading)
+- SQL
+- JavaScript (Basics)
 
-- 📫 How to reach me **naveenkumar12634@gmail.com**
+### 🌐 Web & Backend
+- Servlets & JSP
+- Spring Boot
+- RESTful APIs
+- JDBC, Hibernate (JPA)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/naveen1313" height="30" width="40" /></a>
-</p>
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Maven
+- Apache Tomcat
+- IntelliJ IDEA / Eclipse
+- Postman
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen13-nevu&show_icons=true&locale=en&layout=compact" alt="naveen13-nevu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen13-nevu&show_icons=true&locale=en" alt="naveen13-nevu" /></p>
+## 📂 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen13-nevu&" alt="naveen13-nevu" /></p>
+### 🏥 MediSlot – Appointment Management System
+- Java, JSP, Servlets, JDBC
+- User authentication & appointment scheduling
+- MySQL database integration
+
+### 💪 FitLifeTracker
+- Health & fitness tracking system
+- MVC architecture using Java EE
+- Secure login and dashboard views
+
+### 📁 File Handling Utility
+- Java File I/O
+- Create, read, delete files
+- Exception handling
+
+---
+
+## 🧠 What I’m Currently Learning
+- Advanced Spring Boot
+- Microservices Architecture
+- System Design Basics
+- Data Structures & Algorithms (LeetCode)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: Coming Soon
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**

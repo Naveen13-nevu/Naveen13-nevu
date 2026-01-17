@@ -1,29 +1,46 @@
-# 👋 Hi, I'm Naveen 👨‍💻
+# 👋 Hi, I'm Naveen Kumar 👨‍💻  
+## 🚀 Java Full Stack Developer
 
-🚀 **Java Developer | Backend Engineer | Problem Solver**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+</p>
 
-I’m a passionate Java developer with experience in building **scalable backend applications**, **web apps**, and **database-driven systems**. I enjoy solving problems, learning new technologies, and writing clean, maintainable code.
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate **Java Full Stack Developer** with hands-on experience in building **secure, scalable web applications** using Java and modern frontend technologies.  
+I enjoy backend logic, REST API development, and database design.
+
+- 💡 Strong in Core Java & OOP
+- 🔐 Focused on secure authentication systems
+- 🌱 Always learning new technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Java (Core Java, OOP, Collections, Multithreading)
+- Java
+- JavaScript
 - SQL
-- JavaScript (Basics)
 
-### 🌐 Web & Backend
-- Servlets & JSP
+### ⚙️ Backend
 - Spring Boot
 - RESTful APIs
-- JDBC, Hibernate (JPA)
+- JDBC
+- Hibernate / JPA
 
-### 🗄️ Databases
+### 🎨 Frontend
+- React.js
+- HTML5
+- CSS3
+- Bootstrap
+
+### 🗄️ Database
 - MySQL
-- PostgreSQL
 
-### ⚙️ Tools & Platforms
+### 🧰 Tools
 - Git & GitHub
 - Maven
 - Apache Tomcat
@@ -32,47 +49,48 @@ I’m a passionate Java developer with experience in building **scalable backend
 
 ---
 
-## 📂 Featured Projects
+## 📦 Projects
 
-### 🏥 MediSlot – Appointment Management System
-- Java, JSP, Servlets, JDBC
-- User authentication & appointment scheduling
+### 👥 **User Management System**
+- Java Spring Boot based web application
+- User Registration & Login
+- Role-based access (Admin / User)
+- CRUD operations on users
+- RESTful API architecture
 - MySQL database integration
+- Secure authentication & validation
 
-### 💪 FitLifeTracker
-- Health & fitness tracking system
-- MVC architecture using Java EE
-- Secure login and dashboard views
-
-### 📁 File Handling Utility
-- Java File I/O
-- Create, read, delete files
-- Exception handling
-
----
-
-## 🧠 What I’m Currently Learning
-- Advanced Spring Boot
-- Microservices Architecture
-- System Design Basics
-- Data Structures & Algorithms (LeetCode)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="user management gif"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_PROFILE
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: Coming Soon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+## 📫 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/naveen1313/  
+📧 **Email:** naveenkumar12634@gmail.com  
+
+---
+
+## ⭐ Highlights
+- Clean & maintainable Java code
+- REST API best practices
+- MVC architecture
+- Database-driven applications
+
+---
+
+🔥 *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*

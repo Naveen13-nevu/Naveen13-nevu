@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Java Full Stack Developer** with hands-on experience in building  
-**secure, scalable, database-driven web applications**.
+I am a passionate **Java Full Stack Developer** with experience in building  
+**secure, scalable, database-driven web applications** using Java technologies.
 
 - 💡 Strong in Core Java & OOP
 - 🔐 Experience with authentication & authorization
-- 🌱 Always learning new technologies
+- 🌱 Continuous learner & problem solver
 
 ---
 
@@ -53,7 +53,7 @@ I am a passionate **Java Full Stack Developer** with hands-on experience in buil
 
 ### 👥 User Management System
 - Java Spring Boot application
-- User Registration & Login
+- User registration & login
 - Role-based access (Admin / User)
 - CRUD operations
 - RESTful APIs
@@ -61,7 +61,7 @@ I am a passionate **Java Full Stack Developer** with hands-on experience in buil
 - Secure authentication & validation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ I am a passionate **Java Full Stack Developer** with hands-on experience in buil
 - Secure login system
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320"/>
 </p>
 
 ---
@@ -84,8 +84,18 @@ I am a passionate **Java Full Stack Developer** with hands-on experience in buil
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen13-nevu&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen13-nevu&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen13-nevu&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 

@@ -9,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-I am a passionate **Java Full Stack Developer** with hands-on experience in building **secure, scalable web applications** using Java and modern frontend technologies.  
-I enjoy backend logic, REST API development, and database design.
+I am a passionate **Java Full Stack Developer** with experience in building **secure, scalable, database-driven applications**.  
+I specialize in **Spring Boot backend development**, REST APIs, and modern frontend technologies.
 
 - 💡 Strong in Core Java & OOP
-- 🔐 Focused on secure authentication systems
-- 🌱 Always learning new technologies
+- 🔐 Experience with authentication & authorization
+- 🌱 Continuously learning new frameworks & best practices
 
 ---
 
@@ -52,16 +52,31 @@ I enjoy backend logic, REST API development, and database design.
 ## 📦 Projects
 
 ### 👥 **User Management System**
-- Java Spring Boot based web application
-- User Registration & Login
+- Java Spring Boot application
+- User registration & login
 - Role-based access (Admin / User)
-- CRUD operations on users
+- CRUD operations
 - RESTful API architecture
 - MySQL database integration
 - Secure authentication & validation
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="user management gif"/>
+</p>
+
+---
+
+### 🏥 **Hospital Management System**
+- Java Spring Boot based application
+- Patient, Doctor & Appointment Management
+- Role-based access (Admin, Doctor, Patient)
+- Appointment scheduling & tracking
+- RESTful backend services
+- MySQL database integration
+- Secure login and authorization
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="320" alt="hospital management gif"/>
 </p>
 
 ---
@@ -86,11 +101,11 @@ I enjoy backend logic, REST API development, and database design.
 ---
 
 ## ⭐ Highlights
-- Clean & maintainable Java code
+- Clean, maintainable Java code
 - REST API best practices
-- MVC architecture
-- Database-driven applications
+- MVC & layered architecture
+- Real-world project experience
 
 ---
 
-🔥 *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+🔥 *Thanks for visiting my GitHub profile. Let’s connect and build something impactful!*

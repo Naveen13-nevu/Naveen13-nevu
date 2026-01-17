@@ -81,17 +81,11 @@ I am a passionate **Java Full Stack Developer** with hands-on experience in buil
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen13-nevu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen13-nevu&theme=tokyonight" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen13-nevu&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect With Me
 

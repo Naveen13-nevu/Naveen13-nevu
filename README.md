@@ -64,12 +64,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen13-nevu&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen13-nevu&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -81,11 +75,7 @@
 
 ---
 
-## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen13-nevu&theme=radical&row=1&column=6" />
-</p>
 
 ---
 

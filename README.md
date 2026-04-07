@@ -1,67 +1,120 @@
-# 👋 Hi, I'm Naveen Kumar 👨‍💻
-## 🚀 Java Full Stack Developer
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React | REST APIs</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+Specialist;Backend+Engineer;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I am a passionate **Java Full Stack Developer** with hands-on experience in building  
-**secure, scalable, database-driven web applications**.
+💻 Passionate **Java Full Stack Developer** with hands-on experience in building
+🔐 **secure, scalable, real-world web applications**
 
-- 💡 Core Java & OOP
-- 🔐 Authentication & Authorization
-- 🌱 Continuous learner
+* 💡 Strong in **Core Java & OOP concepts**
+* ⚙️ Skilled in **Spring Boot & REST API Development**
+* 🔐 Experience in **Authentication & Authorization**
+* 🧠 Good understanding of **Collections & MVC Architecture**
+* 🌱 Currently learning **Microservices**
+* 🎯 Goal: Become a **Top Backend Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, SQL  
-**Backend:** Spring Boot, REST APIs, Hibernate, JDBC  
-**Frontend:** React, HTML, CSS, Bootstrap  
-**Database:** MySQL  
-**Tools:** Git, GitHub, Maven, Tomcat, Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,js,mysql,html,css,bootstrap,git,github,postman,maven" />
+</p>
 
 ---
 
-## 📦 Projects
+## 📌 Featured Projects
+
+### 🧠 Quiz Application
+
+✔️ Built using **Spring Boot & REST APIs**
+✔️ Implemented **DTO pattern** for secure data handling
+✔️ Dynamic quiz generation & score calculation
+✔️ Tested APIs using **Postman**
+
+---
 
 ### 👥 User Management System
-- Spring Boot application
-- User Registration & Login
-- Role-based access (Admin/User)
-- CRUD operations
-- MySQL integration
-- Secure REST APIs
+
+✔️ User Registration & Login
+✔️ Role-based access (**Admin/User**)
+✔️ CRUD operations with MySQL
+✔️ Secure REST API design
 
 ---
 
 ### 🏥 Hospital Management System
-- Patient, Doctor & Appointment Management
-- Role-based access (Admin, Doctor, Patient)
-- Appointment scheduling
-- RESTful backend
-- Secure login system
+
+✔️ Patient, Doctor & Appointment modules
+✔️ Role-based authentication (**Admin/Doctor/Patient**)
+✔️ Appointment scheduling system
+✔️ Backend developed using Spring Boot
 
 ---
 
-## 📫 Contact Me
+## 📊 GitHub Stats
 
-🔗 LinkedIn: https://www.linkedin.com/in/naveen1313  
-📧 Email: naveenkumar12634@gmail.com  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen1313">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:naveenkumar12634@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⭐ Highlights
-- Clean, maintainable Java code
-- REST API best practices
-- Real-world project experience
-- Strong backend fundamentals
+
+✨ Clean & maintainable Java code
+🚀 Strong backend development skills
+🔗 REST API best practices
+💼 Real-world project experience
 
 ---
 
-🔥 *Thanks for visiting my GitHub profile.*
+## ⚡ Developer Mindset
+
+💡 *"I don’t just write code, I build scalable solutions."*
+
+---
+
+⭐ *If you like my work, consider giving a star ⭐ and following me!*

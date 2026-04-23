@@ -99,16 +99,6 @@ public class NaveenKumar extends FullStackDeveloper {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Naveen13-nevu&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 | Badge | Certification | Issuer | Year |
@@ -150,7 +140,7 @@ public class NaveenKumar extends FullStackDeveloper {
   <img src="https://img.shields.io/badge/Gmail-naveenkumar12634-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://your-netlify-link.netlify.app">
+<a href="https://naveen13-portfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7C6AF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
